@@ -2,4 +2,5 @@ ASG relousi
 - Membuat program perhitungan tentang bangun datar dan bangun ruang
 - Membuat program web scrapping
 - Membuat program machine learning (pertama)
-- Belajar data scientist dan Machine learning
+- Belajar data analys dan Machine learning
+- Memahami tentang Git dan Github
