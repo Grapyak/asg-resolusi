@@ -1,0 +1,4 @@
+ASG relousi
+- Membuat program perhitungan tentang bangun datar dan bangun ruang
+- Membuat program web scrapping
+- Membuat program machine learning (pertama)
