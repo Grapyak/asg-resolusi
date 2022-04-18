@@ -1,0 +1,10 @@
+RENCANA PROGRAM PYTHON BANGUNG DATAR DAN BAGUN RUANG
+
+- Bangung Datar:
+  - Menabuat bangun datar lain seperti persegi panjang, lingkrang, segitiga, jajargenjang, trapeisum, layang-layang dan belah ketupat
+  - Membenahi gambar yang dimunculkan dengan menambahakan fitur zoom scroll
+  - Membenahi keterangan pada gambar
+
+- Bangun Ruang:
+  - Membuat program seperti bangun datar namun digunakan untuk bangun ruang
+  - Memberikan fitur studi kasus yang dapat dikustomisasi
